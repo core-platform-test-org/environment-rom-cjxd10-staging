@@ -22,3 +22,6 @@ dependencies:
 - name: rom45
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: rom57
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
