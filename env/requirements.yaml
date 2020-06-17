@@ -10,6 +10,9 @@ dependencies:
 - name: rom-import-5
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: rom-import-7
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: rom32
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
